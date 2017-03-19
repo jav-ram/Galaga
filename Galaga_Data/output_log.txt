@@ -1,0 +1,99 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8650G (ID=0x990b)
+    Vendor:   ATI
+    VRAM:     2651 MB
+    Driver:   15.200.1062.1004
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.270 seconds
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\javier\Desktop\Juegos\Proyecto\Galaga\Galaga_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.038348 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 500 -> priority: 1 
+click
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.894207 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.356197 ms (FindLiveObjects: 0.045960 ms CreateObjectMapping: 0.024621 ms MarkObjects: 0.265096 ms  DeleteObjects: 0.019697 ms)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet(Clone),Bullet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623345 ms
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 0.496542 ms (FindLiveObjects: 0.039395 ms CreateObjectMapping: 0.024621 ms MarkObjects: 0.240474 ms  DeleteObjects: 0.190820 ms)
+
